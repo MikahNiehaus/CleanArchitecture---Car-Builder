@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "N+wX2+GxvfHAZQ6PKreJ9R6X5gR9XL7XOYwG+UVeIvc=",
+  "Source": "CarBuilder.API",
+  "BasePath": "_content/CarBuilder.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
